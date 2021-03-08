@@ -1,4 +1,4 @@
-# reaction-timer
+# An Unknown Ninja's Reaction Game
 
 ## Project setup
 ```
